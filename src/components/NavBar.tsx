@@ -56,7 +56,7 @@ const NavBar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 glass px-6 py-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-gradient">
-          CryptoWeatherNexus
+          CryptoWeatherHub
         </Link>
         
         <div className="hidden md:flex items-center space-x-8">
